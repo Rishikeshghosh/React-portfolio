@@ -23,7 +23,7 @@ export const projectsData = [
     id: 3,
     image: Work3,
     title: "Mern social media application",
-    link : "https://652d5263d153d524cf151a85--bright-begonia-2130a5.netlify.app",
+    link : "https://6548fe79339e5214cd4c7fac--moonlit-starburst-37c69e.netlify.app",
     category: "Mern",
   },
   {
