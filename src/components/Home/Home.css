@@ -23,7 +23,7 @@
   }
 }
 .home__img {
-  background-image: url("https://media.licdn.com/dms/image/C4D03AQHvgF8ulslIWQ/profile-displayphoto-shrink_200_200/0/1661531191573?e=1703721600&v=beta&t=2cMDTX838wUb_s1xkMtuSPnEN91KAo0ljspGJOEKgFI");
+  background-image: url("https://media.licdn.com/dms/image/C4D03AQHvgF8ulslIWQ/profile-displayphoto-shrink_800_800/0/1661531199193?e=1711584000&v=beta&t=fZRS7KrL06SqIfHkuhzVJb_kZqPuiQ2gi3CELBeJx14");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -51,7 +51,7 @@
   row-gap: 1rem;
 }
 .home__social-icon {
-  font-size: 1.25rem;
+  font-size: 1.5rem;
   color: var(--title-color);
 }
 .home__social-icon:hover {
@@ -161,6 +161,10 @@
   }
   .home__scroll {
     display: none;
+  }
+  .home__social-icon {
+    font-size: 1.2rem;
+    color: var(--title-color);
   }
 }
 

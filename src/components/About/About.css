@@ -33,7 +33,9 @@
   font-size: var(--small-font-size);
 }
 .about__subtitle {
-  font-size: var(--tiny-font-size);
+  font-size: 0.7rem;
+  color: black;
+  font-weight: 500;
 }
 .about__description {
   padding: 0 1rem;
