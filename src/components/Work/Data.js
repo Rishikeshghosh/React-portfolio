@@ -4,6 +4,9 @@ import Work3 from "../../Assets/projects/pic1.png";
 import Work2 from "../../Assets/projects/React1.png";
 import Work5 from "../../Assets/projects/pic3.png";
 import Work6 from "../../Assets/projects/real-estate.png";
+import Work7 from "../../Assets/projects/team-chat-app.jpeg";
+import Work8 from "../../Assets/projects/nastasia.jpeg";
+import Work9 from "../../Assets/projects/iksaa.jpeg";
 
 export const projectsData = [
   {
@@ -36,17 +39,38 @@ export const projectsData = [
     category: "React",
   },
   {
-    id: 4,
+    id: 5,
     image: Work5,
     title: "Javascript",
     category: "Javascript",
   },
   {
-    id: 5,
+    id: 6,
     image: Work6,
     title: "Real-estate application",
     link: "https://6587e25d2ac877c8fbdd92de--dashing-banoffee-6fd5f9.netlify.app",
     category: "Mern",
+  },
+  {
+    id: 7,
+    image: Work7,
+    title: "Real-time chat application",
+    link: "https://team-chat-app2-1000.onrender.com",
+    category: "Next.js",
+  },
+  {
+    id: 8,
+    image: Work8,
+    title: "Nastasia.com",
+    link: "https://nestasia.in",
+    category: "Production",
+  },
+  {
+    id: 9,
+    image: Work9,
+    title: "Iksaa.com",
+    link: "https://iksaa.in",
+    category: "Production",
   },
 ];
 export const projectNav = [
@@ -61,5 +85,11 @@ export const projectNav = [
   },
   {
     name: "Javascript",
+  },
+  {
+    name: "Next.js",
+  },
+  {
+    name: "Production",
   },
 ];
