@@ -38,12 +38,7 @@ export const projectsData = [
     link: "https://rishikeshghosh.github.io/Personal-portfolio",
     category: "React",
   },
-  {
-    id: 5,
-    image: Work5,
-    title: "Javascript",
-    category: "Javascript",
-  },
+
   {
     id: 6,
     image: Work6,
@@ -83,9 +78,7 @@ export const projectNav = [
   {
     name: "Mern",
   },
-  {
-    name: "Javascript",
-  },
+
   {
     name: "Next.js",
   },
